@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+ScoreBoardle is a score-sharing app for Wordle and the basic multiword variants:
 
-You can use the [editor on GitHub](https://github.com/ScoreBoardle/scoreboardle.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- Wordle (1)
+- Dordle (2)
+- Quordle (4)
+- Octordle (8)
+- Sedecordle (16)
+- Duotrigordle (32)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+By playing any of these web-based games (in daily mode) within the app, the results can be combined and shared as one image/post. You also have the ability to pick which game results to share. It should be noted the app doesn't change gameplay in any way. Perpetual data (streaks/statistics/etc.) are saved just as they would be if played in a typical web browser.
 
-### Markdown
+A big thanks to the Wordle team/community and all the variant authors!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Usage:
+Simply choose the game you wish to play and your results will be automatically saved. When you click the edit button in the upper right (from main screen or within any game), you will be taken to the score screen. Here you can click each game to enable/disable their inclusion. Finally, click the share button in the upper right when ready.
 
-```markdown
-Syntax highlighted code block
+Any comments, questions, ideas or bug reports; feel free to post under 'Issues' above or email:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ScoreBoardle/scoreboardle.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ScoreBoardle@gmail.com
